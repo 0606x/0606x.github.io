@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://example.com</id>
+    <id>https://0606x.github.io</id>
     <title>ShokaX</title>
     <subtitle>test</subtitle>
-    <icon>http://example.com/assets/favicon.ico</icon>
-    <link href="http://example.com" />
+    <icon>https://0606x.github.io/assets/favicon.ico</icon>
+    <link href="https://0606x.github.io" />
     <author>
       <name>Alan King</name>
     </author>
@@ -13,9 +13,9 @@
     <category term=" test2" />
     <category term=" test3" />
     <entry>
-        <id>http://example.com/2026/07/21/hello-world/</id>
+        <id>https://0606x.github.io/2026/07/21/hello-world/</id>
         <title>Hello World</title>
-        <link rel="alternate" href="http://example.com/2026/07/21/hello-world/"/>
+        <link rel="alternate" href="https://0606x.github.io/2026/07/21/hello-world/"/>
         <content type="html">&lt;p&gt;Welcome to &lt;a href=&#34;https://hexo.io/&#34;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&#34;https://hexo.io/docs/&#34;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&#34;https://hexo.io/docs/troubleshooting.html&#34;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&#34;https://github.com/hexojs/hexo/issues&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;quick-start&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#quick-start&#34;&gt;#&lt;/a&gt; Quick Start&lt;/h2&gt;
 &lt;h3 id=&#34;create-a-new-post&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#create-a-new-post&#34;&gt;#&lt;/a&gt; Create a new post&lt;/h3&gt;

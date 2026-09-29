@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://0606x.github.io</id>
-    <title>ShokaX</title>
-    <subtitle>test</subtitle>
+    <title>Ruoxian&#39;s Blog</title>
+    <subtitle>A quiet monologue from an island of my own.</subtitle>
     <icon>https://0606x.github.io/assets/favicon.ico</icon>
     <link href="https://0606x.github.io" />
     <author>
       <name>Alan King</name>
     </author>
     <updated>2026-07-21T10:22:54.468Z</updated>
-    <category term="test1" />
-    <category term=" test2" />
-    <category term=" test3" />
+    <category term="计算机" />
+    <category term=" 学生" />
+    <category term=" 个人博客" />
     <entry>
         <id>https://0606x.github.io/2026/07/21/hello-world/</id>
         <title>Hello World</title>

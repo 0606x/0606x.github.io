@@ -1,20 +1,20 @@
 <?xml version="1.0"?>
 <rss version="2.0">
     <channel>
-        <title>ShokaX</title>
-        <subtitle>test</subtitle>
+        <title>Ruoxian&#39;s Blog</title>
+        <subtitle>A quiet monologue from an island of my own.</subtitle>
         <icon>https://0606x.github.io/assets/favicon.ico</icon>
         <link>https://0606x.github.io</link>
         <author>
           <name>Alan King</name>
         </author>
-        <description>test</description>
+        <description>BNU CS Student</description>
         <language>zh-CN</language>
         <pubDate>Tue, 21 Jul 2026 18:22:54 +0800</pubDate>
         <lastBuildDate>Tue, 21 Jul 2026 18:22:54 +0800</lastBuildDate>
-        <category term="test1" />
-        <category term=" test2" />
-        <category term=" test3" />
+        <category term="计算机" />
+        <category term=" 学生" />
+        <category term=" 个人博客" />
         <item>
             <guid isPermalink="true">https://0606x.github.io/2026/07/21/hello-world/</guid>
             <title>Hello World</title>

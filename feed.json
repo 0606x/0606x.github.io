@@ -1,9 +1,9 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "ShokaX",
-    "subtitle": "test",
+    "title": "Ruoxian's Blog",
+    "subtitle": "A quiet monologue from an island of my own.",
     "icon": "https://0606x.github.io/assets/favicon.ico",
-    "description": "test",
+    "description": "BNU CS Student",
     "home_page_url": "https://0606x.github.io",
     "items": [
         {
